@@ -1,0 +1,175 @@
+body{
+    margin:0 ;
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+   color:#4d5e4e;
+    text-align: center;
+    font-size: 4em;
+    line-height: 1.5;
+    
+}
+p{
+    font-size: 2em;
+    color:#4d5e4e;
+    text-align: center;
+    text-decoration:underline;
+    line-height: 2;
+}
+.top-container{
+    background-color:#D2E3C8;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+}
+.middle-container{
+    background-color:white;
+    position: relative;
+
+}
+.bottom-container{
+    background-color: #B2C8BA;
+    padding-top: 10px;
+}
+.image{
+    width: 10em;
+    margin-top: 50px;
+   
+  
+
+}
+.dev{
+    margin-top: 50px;
+    width:15em;
+}
+.txt{
+    color:#378533 ;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+.hello{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.skill{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    padding-top: 50px;
+    
+
+}
+.hey{
+    color: black;
+}
+ hr{
+    border: dotted #EAF6F6 6px;
+   border-bottom: none;
+     width: 4%;
+     margin: 100px auto;
+
+}
+.skill-head{
+    color: #3da244;
+    font-size: 1.5625em;
+    margin-top: 2em;
+    text-align: center;
+  
+   
+    
+}
+.img1{
+    width: 10em;
+    float:left;
+ 
+    
+}
+.img2{
+    width:10em;
+    float:right;
+   
+}
+.skill-row{
+      width: 50%;
+     text-decoration: none;
+      font-size: 16px;
+      margin: 9em 0 6.25em 0;
+      margin-left: 20em;
+      text-align: left;
+      margin-right: 20em;    
+}
+.exp1{
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  text-align: left;
+}
+.exp2{
+    font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  text-align: right;
+}
+.copyright{
+    color: black;
+  font-size: 0.75rem;
+  padding: 5px 0;
+  text-decoration: none;
+}
+.contact{
+    text-decoration: none;
+    border-style:solid;
+    border-radius: 10px;
+    color: black;
+    font-size: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.contact:hover{
+    opacity: 0.7;
+}
+.gh{
+    width: 20px;
+    margin: 5px;
+}
+.fb{
+    width: 20px;
+    margin: 5px;
+}
+.yt{
+    width: 20px;
+    margin: 5px;
+}
+.li{
+    width: 20px;
+    margin: 5px;
+}
+.tt{
+    width: 20px;
+    margin: 5px;
+}
+.insta{
+    width: 20px;
+    margin: 5px;
+}
+.gh:hover{
+    opacity: 0.9;
+}
+.fb:hover{
+    opacity: 0.7;
+}
+.yt:hover{
+    opacity: 0.7;
+}
+.li:hover{
+    opacity:0.7;
+}
+.tt:hover{
+    opacity:0.7;
+}
+.insta:hover{
+    opacity:0.7;
+}
