@@ -20,8 +20,8 @@ p{
 }
 .top-container{
     background-color:#D2E3C8;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 6.25em;
+    padding-bottom: 6.25em;
     position: relative;
 }
 .middle-container{
@@ -31,34 +31,34 @@ p{
 }
 .bottom-container{
     background-color: #B2C8BA;
-    padding-top: 10px;
+    padding-top: 0.625em;
 }
 .image{
     width: 10em;
-    margin-top: 50px;
+    margin-top: 3.125em;
    
   
 
 }
 .dev{
-    margin-top: 50px;
+    margin-top: 3.125em;
     width:15em;
 }
 .txt{
     color:#378533 ;
-    font-size: 20px;
+    font-size: 1.25em;
     text-decoration: none;
 
 }
 .hello{
-    font-size: 40px;
+    font-size: 2.5em;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .skill{
-    font-size: 40px;
+    font-size: 2.5em;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:black;
-    padding-top: 50px;
+    padding-top: 3.125em;
     
 
 }
@@ -66,10 +66,10 @@ p{
     color: black;
 }
  hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted gray 0.375em;
    border-bottom: none;
      width: 4%;
-     margin: 100px auto;
+     margin: 6.25em auto;
 
 }
 .skill-head{
@@ -95,7 +95,7 @@ p{
 .skill-row{
       width: 50%;
      text-decoration: none;
-      font-size: 16px;
+      font-size: 1em;
       margin: 9em 0 6.25em 0;
       margin-left: 20em;
       text-align: left;
@@ -116,13 +116,13 @@ p{
 .copyright{
     color: black;
   font-size: 0.75rem;
-  padding: 5px 0;
+  padding: 0.3125em 0;
   text-decoration: none;
 }
 .contact{
     text-decoration: none;
     border-style:solid;
-    border-radius: 10px;
+    border-radius: 0.625em;
     color: black;
     font-size: 1em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -132,28 +132,28 @@ p{
     opacity: 0.7;
 }
 .gh{
-    width: 20px;
-    margin: 5px;
+    width: 1.25em;
+    margin: 0.3125em;
 }
 .fb{
-    width: 20px;
-    margin: 5px;
+    width: 1.25em;
+    margin: 0.3125em;
 }
 .yt{
-    width: 20px;
-    margin: 5px;
+    width: 1.25em;
+    margin: 0.3125em;
 }
 .li{
-    width: 20px;
-    margin: 5px;
+    width: 1.25em;
+    margin: 0.3125em;
 }
 .tt{
-    width: 20px;
-    margin: 5px;
+    width: 1.25em;
+    margin: 0.3125em;
 }
 .insta{
-    width: 20px;
-    margin: 5px;
+    width: 1.25em;
+    margin: 0.3125em;
 }
 .gh:hover{
     opacity: 0.9;
